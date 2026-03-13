@@ -79,5 +79,5 @@ PRONTO PARA DECOLAR
 
 ## Autor
 
-Arthur Morais
+Arthur Morais <br>
 Projeto desenvolvido para atividade acadêmica da FIAP.
